@@ -7,8 +7,13 @@
 - Reconocer la aplicación del teorema al momento de medir los distintos valores para después realizar una comparación.
 ## 2. Marco teórico
 
+![image](https://user-images.githubusercontent.com/105740772/179094493-cb1c506a-f165-4402-b89f-186e85ba5cd3.png)
+
+![image](https://user-images.githubusercontent.com/105740772/179094539-b52adaa2-7f9a-4004-9467-55d56ad0df97.png)
 
 ## 3. Materiales y equipo
+
+
 ## 4. Procedimiento
 ### Arme el circuito que se muestra en la figura:
 
