@@ -72,7 +72,50 @@
 
 
 ### Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados:
+#### Potencia con resistencia de 220 Ω
+
+![image](https://user-images.githubusercontent.com/105740772/179097521-aeddaa10-29b8-4ca4-9e83-8ba362302826.png)
+
+#### Potencia con resistencia de 470 Ω
+
+![image](https://user-images.githubusercontent.com/105740772/179097532-5cab5503-839f-476c-8359-a118c00c464d.png)
+
+#### Potencia con resistencia de 680 Ω
+
+![image](https://user-images.githubusercontent.com/105740772/179097548-26632f89-0e51-47a4-ab13-128b22204d9e.png)
+
+#### Potencia con resistencia de 820 Ω
+
+![image](https://user-images.githubusercontent.com/105740772/179097566-4b55a9c1-6609-49e5-b7d5-d230d91641da.png)
+
+#### Potencia con resistencia de 1000 Ω
+
+![image](https://user-images.githubusercontent.com/105740772/179097592-d2614342-1b96-49df-83a1-2e6ac3b7a8f6.png)
+
+#### Potencia con resistencia de 1500 Ω
+
+![image](https://user-images.githubusercontent.com/105740772/179097629-3c26d9c3-5880-4e8e-be72-54c0a4640dfe.png)
+
+#### Potencia con resistencia de 1800 Ω
+
+![image](https://user-images.githubusercontent.com/105740772/179097658-4b77fa79-78d0-4c35-a227-5fca5f21beaf.png)
+
+#### Potencia con resistencia de 2200 Ω
+
+![image](https://user-images.githubusercontent.com/105740772/179097699-c67c585d-02fa-4a6d-9135-7058e88ec81f.png)
+
+#### Potencia con resistencia de 3900 Ω
+
+![image](https://user-images.githubusercontent.com/105740772/179097685-2f1109c0-cd84-4998-8268-cc030391b7e4.png)
+
+#### Potencia con resistencia de 4700 Ω
+
+![image](https://user-images.githubusercontent.com/105740772/179097679-bfa5162c-d3bc-40b0-8d8b-0caa7ba18b02.png)
+
 ### Parámetros Eléctricos del circuito de la figura:
+
+![image](https://user-images.githubusercontent.com/105740772/179097022-7132326c-c708-4ac5-8d8e-dc3eb74b8e45.png)
+
 ## 5. Respuestas a interrogantes y cálculo del error
 - ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
