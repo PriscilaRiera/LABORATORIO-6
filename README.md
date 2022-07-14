@@ -13,6 +13,7 @@
 
 ## 3. Materiales y equipo
 
+![image](https://user-images.githubusercontent.com/105740772/179100029-840e86ec-7b15-41a1-98bf-73172a56d3d0.png)
 
 ## 4. Procedimiento
 ### Arme el circuito que se muestra en la figura:
