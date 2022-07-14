@@ -3,7 +3,7 @@
 ### Objetivo general
 - Construir el circuito detallado en la práctica de laboratorio en el simulador online DC/AC Lab a través de la lectura del material dejado por el docente para la verificación del teorema de Potencia Máxima.
 
-### Objetivos específicos
+### Objetivo específico
 - Reconocer la aplicación del teorema al momento de medir los distintos valores para después realizar una comparación.
 ## 2. Marco teórico
 
@@ -79,7 +79,7 @@
 
 - Calcular errores de las mediciones y comentar los resultados
 
-## 5. Conclusiones
+## 5. Conclusión
 
 - El teorema de Potencia Máxima nos dice que se puede hallar la potencia con respecto a una carga si contamos con una fuente y resistencia de thevenin y al corroborar los distintos valores podemos observar que el número  que tiene mayor valor de potencia es de la resistencia que más se aproxima al valor de la resistencia de thevenin y después de ese valor la potencia comienza a decaer dándonos a entender que ese es el punto máximo de potencia en este circuito.
 
