@@ -134,6 +134,8 @@ Para el valor de 1500 Ω.
 
 - Calcular errores de las mediciones y comentar los resultados
 
+![image](https://user-images.githubusercontent.com/105740772/179271036-31ea8ed9-edac-47cb-b463-c309ed165466.png)
+
 ## 5. Conclusión
 
 - El teorema de Potencia Máxima nos dice que se puede hallar la potencia con respecto a una carga si contamos con una fuente y resistencia de thevenin y al corroborar los distintos valores podemos observar que el número  que tiene mayor valor de potencia es de la resistencia que más se aproxima al valor de la resistencia de thevenin y después de ese valor la potencia comienza a decaer dándonos a entender que ese es el punto máximo de potencia en este circuito.
