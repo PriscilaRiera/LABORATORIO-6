@@ -117,11 +117,20 @@
 ## 5. Respuestas a interrogantes y cálculo del error
 - ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
+Si se cumple el teorema de la transferencia máxima ya que, se puede ver que a medida que las resistencias aumentan su valor, la potencia máxima aumenta hasta cierto punto, en donde esta potencia comeinza a decaer.
+Este teorema indica que a medida que nos acerquemos al valor de la resistencia ya sea de Thevenin o Norton, se llega a un punto máximo de esa transferencia de potencia.
+
 - ¿Cuál fue la potencia máxima en RL?
+
+La potencia máxima se presento en la resistencia de 1500 Ω.
 
 - ¿Para qué valor de RL se obtiene la MTP?
 
+Para el valor de 1500 Ω.
+
 - Grafique la curva Potencia vs RL y comente
+
+![image](https://user-images.githubusercontent.com/105740772/179268679-789bef7f-de63-4cd9-831e-725bdaaf2f14.png)
 
 - Calcular errores de las mediciones y comentar los resultados
 
