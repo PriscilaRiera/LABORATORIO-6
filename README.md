@@ -69,9 +69,6 @@
 
 ![image](https://user-images.githubusercontent.com/105740772/179092722-44a3d94e-32d7-4b7b-9879-8c69dc567846.png)
 
-### Calcule la potencia consumida por RL, para cada valor dado y anote los resultados:
-
-
 ### Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados:
 #### Potencia con resistencia de 220 Ω
 
@@ -134,3 +131,9 @@
 
 ## 6. Video
 ## 7. Bibliografía
+
+Apolo, C. (23 de Marzo de 2017). Teorema de maxima transfrencia de potencia. Obtenido de http://analisiscd.blogspot.com/2017/03/25-teorema-de-maxima-transferencia-de.html
+
+Quezada, K. (06 de Junio de 2015). Teorema de maxima trasferencia de potencia. Obtenido de https://www.coursehero.com/file/84925925/Resumen-Sobre-Teorema-De-M%C3%A1xima-Transferencia-De-Potenciadocx/
+
+Unicrom, E. (05 de Julio de 2017). Teorema de maxima tranferencia de potencia. Obtenido de https://unicrom.com/teorema-de-maxima-transferencia-de-potencia/
