@@ -141,6 +141,9 @@ Para el valor de 1500 Ω.
 - El teorema de Potencia Máxima nos dice que se puede hallar la potencia con respecto a una carga si contamos con una fuente y resistencia de thevenin y al corroborar los distintos valores podemos observar que el número  que tiene mayor valor de potencia es de la resistencia que más se aproxima al valor de la resistencia de thevenin y después de ese valor la potencia comienza a decaer dándonos a entender que ese es el punto máximo de potencia en este circuito.
 
 ## 6. Video
+
+https://www.youtube.com/watch?v=xZSxcdrJ3HI
+
 ## 7. Bibliografía
 
 Apolo, C. (23 de Marzo de 2017). Teorema de maxima transfrencia de potencia. Obtenido de http://analisiscd.blogspot.com/2017/03/25-teorema-de-maxima-transferencia-de.html
